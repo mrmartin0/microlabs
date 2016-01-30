@@ -28,5 +28,5 @@ This microlab introduces defining classes. Every java program defines at least o
 ## Important points
 
 - Multiple classes can be declared in one file.
-- Only one class per compilation unit (file) can be declared `public`.
+- Only one class per compilation unit (file) can be declared `public`. -- test this out by making two of your classes public and trying to compile the file.
 - Class declarations define blueprints for objects, which can then be used in your programs.
