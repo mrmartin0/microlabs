@@ -1,8 +1,8 @@
-# Classes Lab 01: Defining Classes
+# Nested Classes Lab 01: Defining Inner Classes
 
 ## Objective
 
-This microlab introduces defining nested classes. This lab focuses specifically on non-static nested classes, also known as inner classes
+This microlab introduces defining nested classes. This lab focuses specifically on non-static nested classes, also known as inner classes.
 
 ## Instructions
 
